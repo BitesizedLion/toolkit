@@ -26,6 +26,8 @@ _First time here? Read_ [_about the toolkit_](<README (1).md>) _or see some of t
 
 Select a category below to browse tools:
 
+<table><thead><tr><th width="207"></th><th width="224"></th><th></th></tr></thead><tbody><tr><td><a data-mention href="categories/maps-and-satellites/maps-and-satellites.md">maps-and-satellites.md</a></td><td><a data-mention href="categories/people/people.md">people.md</a></td><td><a data-mention href="categories/transport/transport.md">transport.md</a></td></tr><tr><td><a data-mention href="categories/geolocation/geolocation.md">geolocation.md</a></td><td><a data-mention href="categories/websites/websites.md">websites.md</a></td><td><a data-mention href="categories/environment-and-wildlife/environment-and-wildlife.md">environment-and-wildlife.md</a></td></tr><tr><td><a data-mention href="categories/image-video/image-video.md">image-video.md</a></td><td><a data-mention href="categories/companies-and-finance/companies-and-finance.md">companies-and-finance.md</a></td><td><a data-mention href="categories/archiving/archiving.md">archiving.md</a></td></tr><tr><td><a data-mention href="categories/social-media/social-media.md">social-media.md</a></td><td><a data-mention href="categories/conflict/conflict.md">conflict.md</a></td><td><a data-mention href="categories/data/data.md">data.md</a></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+
 {% content-ref url="categories/maps-and-satellites/maps-and-satellites.md" %}
 [maps-and-satellites.md](categories/maps-and-satellites/maps-and-satellites.md)
 {% endcontent-ref %}
@@ -40,17 +42,7 @@ Select a category below to browse tools:
 
 
 
-[maps-and-satellites.md](categories/maps-and-satellites/maps-and-satellites.md "mention")
-
-[geolocation.md](categories/geolocation/geolocation.md "mention")
-
-[image-video.md](categories/image-video/image-video.md "mention")
-
-...
-
-<table><thead><tr><th width="207"></th><th width="224"></th><th></th></tr></thead><tbody><tr><td><a data-mention href="categories/maps-and-satellites/maps-and-satellites.md">maps-and-satellites.md</a></td><td><a data-mention href="categories/people/people.md">people.md</a></td><td><a data-mention href="categories/transport/transport.md">transport.md</a></td></tr><tr><td><a data-mention href="categories/geolocation/geolocation.md">geolocation.md</a></td><td><a data-mention href="categories/websites/websites.md">websites.md</a></td><td><a data-mention href="categories/environment-and-wildlife/environment-and-wildlife.md">environment-and-wildlife.md</a></td></tr><tr><td><a data-mention href="categories/image-video/image-video.md">image-video.md</a></td><td><a data-mention href="categories/companies-and-finance/companies-and-finance.md">companies-and-finance.md</a></td><td><a data-mention href="categories/archiving/archiving.md">archiving.md</a></td></tr><tr><td><a data-mention href="categories/social-media/social-media.md">social-media.md</a></td><td><a data-mention href="categories/conflict/conflict.md">conflict.md</a></td><td><a data-mention href="categories/data/data.md">data.md</a></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Maps and Sats</td><td><a data-mention href="categories/maps-and-satellites/maps-and-satellites.md">maps-and-satellites.md</a></td><td>blah</td><td><a href="categories/maps-and-satellites/maps-and-satellites.md">maps-and-satellites.md</a></td><td><a href="tools/invid/.gitbook/assets/image (18).png">image (18).png</a></td></tr><tr><td></td><td><a data-mention href="categories/geolocation/geolocation.md">geolocation.md</a></td><td></td><td></td><td><a href="tools/invid/.gitbook/assets/image (3).png">image (3).png</a></td></tr><tr><td></td><td><a data-mention href="categories/image-video/image-video.md">image-video.md</a></td><td></td><td></td><td></td></tr><tr><td><a data-mention href="categories/social-media/social-media.md">social-media.md</a></td><td></td><td></td><td></td><td><a href="tools/etherscan/.gitbook/assets/image (3).png">image (3).png</a></td></tr><tr><td><a data-mention href="categories/people/people.md">people.md</a></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th data-type="content-ref"></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-type="files"></th></tr></thead><tbody><tr><td></td><td>Geolocation</td><td></td><td><a href="categories/maps-and-satellites/maps-and-satellites.md">maps-and-satellites.md</a></td><td></td></tr><tr><td><a href="categories/geolocation/geolocation.md">geolocation.md</a></td><td></td><td></td><td><a href="categories/geolocation/geolocation.md">geolocation.md</a></td><td><a href="tools/invid/.gitbook/assets/image (3).png">image (3).png</a></td></tr><tr><td></td><td><a data-mention href="categories/image-video/image-video.md">image-video.md</a></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td><a href="tools/etherscan/.gitbook/assets/image (3).png">image (3).png</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
