@@ -1,6 +1,7 @@
 # Table of contents
 
-* [About](README.md)
+* [Home](README.md)
+* [About](<README (1).md>)
 * [Most Used](most-used.md)
 
 ## ⚒️ Categories
