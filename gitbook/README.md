@@ -11,7 +11,7 @@ layout:
   description:
     visible: false
   tableOfContents:
-    visible: true
+    visible: false
   outline:
     visible: false
   pagination:
@@ -22,9 +22,9 @@ layout:
 
 ### Welcome to Bellingcat’s Online Open Source Investigation Toolkit!
 
-First time here? Read [about the toolkit](<README (1).md>) or see some of the [most used](most-used.md) tools.
+_First time here? Read_ [_about the toolkit_](<README (1).md>) _or see some of the_ [_most used_](most-used.md) _tools._
 
-Know what youʻre looking for? Select a category below to browse tools:
+Select a category below to browse tools:
 
 {% content-ref url="categories/maps-and-satellites/maps-and-satellites.md" %}
 [maps-and-satellites.md](categories/maps-and-satellites/maps-and-satellites.md)
